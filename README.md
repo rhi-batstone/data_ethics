@@ -5,4 +5,5 @@ This was a presentation on a given data ethics hot topic:
 
 View the presentation slides here -> https://rhi-batstone.github.io./#/
 
-![](/images/slide1.png) ![](/images/elon.jpeg =100x20)
+![](/images/slide1.png) 
+![](/images/elon.jpeg =100x20)

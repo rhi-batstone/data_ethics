@@ -1,4 +1,5 @@
 # Data Ethics Presentation
+Author: Rhi Batstone
 
 ## Autonomous Cars: Who should be held legally accountable in event of an accident?
 
